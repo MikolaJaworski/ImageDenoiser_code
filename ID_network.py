@@ -2,7 +2,7 @@ import os
 import numpy as np
 import torch.nn as nn
 
-# Kolega napisał Architektura sieci U-CNN
+# Architektura sieci U-CNN
 
 class ID_net(nn.Module):
     def __init__(self, out_ch=96):
