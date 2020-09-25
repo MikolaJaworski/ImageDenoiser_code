@@ -328,3 +328,4 @@ if __name__ == "__main__":
     '''
 
     # Koniec kodu
+    # Autor: Mikołaj Jaworski
